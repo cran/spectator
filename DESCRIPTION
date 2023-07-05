@@ -1,6 +1,6 @@
 Package: spectator
 Title: Interface to the 'Spectator Earth' API
-Version: 0.1.1
+Version: 0.2.0
 Authors@R: 
     person("Zivan", "Karaman", , "zivan.karaman@gmail.com", role = c("aut", "cre", "cph"),
            comment = c(ORCID = "0000-0002-8933-4589"))
@@ -20,10 +20,10 @@ VignetteBuilder: knitr
 Encoding: UTF-8
 Language: en-US
 LazyData: true
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.2
 NeedsCompilation: no
-Packaged: 2022-03-29 08:17:38 UTC; zivan
+Packaged: 2023-07-04 15:51:43 UTC; zivan
 Author: Zivan Karaman [aut, cre, cph] (<https://orcid.org/0000-0002-8933-4589>)
 Maintainer: Zivan Karaman <zivan.karaman@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-03-29 11:40:03 UTC
+Date/Publication: 2023-07-05 12:10:02 UTC
